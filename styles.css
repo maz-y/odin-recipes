@@ -36,7 +36,7 @@ img{
 
 .header{
   font-size: 30px;
-  background-color: lightblue;
+  background-color: coral;
   border-radius: 10px;
   max-width: fit-content;
   padding: 5px;
@@ -47,22 +47,22 @@ img{
 
 .ingredients{
   display: inline-block;
-  background-color: plum;
+  background-color: rgb(255, 214, 176);
   border-radius: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 25px;
   padding-right: 20px;
-  color: aliceblue;
+  color: black;
 }
 
 .method{
   display: inline-block;
   width: 70%;
   float: none;
-  background-color: yellowgreen;
+  background-color: rgb(255, 214, 176);
   border-radius: 10px;
-  color: aliceblue;
+  color: black;
   padding: 10px;
   padding-left: 25px;
   padding-right: 20px;
@@ -73,4 +73,5 @@ img{
   max-width: fit-content;
   font-size: 15px;
   margin: auto;
+  background-color: lightseagreen;
 }
