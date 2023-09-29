@@ -4,6 +4,10 @@ body{
   background-color: antiquewhite;
 }
 
+a{
+  text-decoration: none;
+}
+
 .title{
   font-size: 90px;
   color: antiquewhite;
