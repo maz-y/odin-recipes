@@ -1,0 +1,46 @@
+body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.title{
+  font-size: 90px;
+  color: antiquewhite;
+  background-color: coral;
+  border-radius: 10px;
+}
+
+.link{
+  font-size: 30px;
+  background-color: lightcoral;
+  border-radius: 2px;
+  color: azure;
+}
+
+img{
+  border-radius: 20px;
+}
+
+.header{
+  font-size: 30px;
+  background-color: lightblue;
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+.ingredients{
+  background-color: plum;
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+.method{
+  background-color: yellowgreen;
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+.home{
+  font-size: 15px;
+}
