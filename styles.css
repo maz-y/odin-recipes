@@ -47,6 +47,7 @@ img{
 
 .ingredients{
   display: inline-block;
+  list-style: none;
   background-color: rgb(255, 214, 176);
   border-radius: 10px;
   padding-top: 10px;
